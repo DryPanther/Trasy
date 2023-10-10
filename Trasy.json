@@ -1,0 +1,29 @@
+﻿[
+  {
+    "TrasaId": 1,
+    "TrasaNazwa": "Trasa 1",
+    "TrasaOpis": null,
+    "TrasaDługość": "3km",
+    "PunktPoczątkowy": "Dom",
+    "PunktKońcowy": "Góra"
+
+  },
+  {
+    "TrasaId": 2,
+    "TrasaNazwa": "Trasa 2",
+    "TrasaOpis": null,
+    "TrasaDługość": "3km",
+    "PunktPoczątkowy": "Dom",
+    "PunktKońcowy": "Góra"
+
+  },
+  {
+    "TrasaId": 3,
+    "TrasaNazwa": "Trasa 3",
+    "TrasaOpis": null,
+    "TrasaDługość": "3km",
+    "PunktPoczątkowy": "Dom",
+    "PunktKońcowy": "Góra"
+
+  }
+]
