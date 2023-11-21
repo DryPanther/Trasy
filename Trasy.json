@@ -1,29 +1,29 @@
-﻿[
+[
   {
     "TrasaId": 1,
-    "TrasaNazwa": "Trasa 1",
-    "TrasaOpis": null,
-    "TrasaDługość": "3km",
-    "PunktPoczątkowy": "Dom",
-    "PunktKońcowy": "Góra"
+    "TrasaNazwa": "Gemini Park",
+    "TrasaOpis": "Polecam Cinema City",
+    "TrasaX": 49.80381037113046,
+    "TrasaY": 19.050570509169127,
+    "TrasaLink": "https://www.google.com/maps/dir//49.8038104,19.0505705/@49.8038104,19.0479902,17z/data=!4m2!4m1!3e0?hl=pl-PL&entry=ttu"
 
   },
   {
     "TrasaId": 2,
-    "TrasaNazwa": "Trasa 2",
-    "TrasaOpis": null,
-    "TrasaDługość": "3km",
-    "PunktPoczątkowy": "Dom",
-    "PunktKońcowy": "Góra"
+    "TrasaNazwa": "Kaufland",
+    "TrasaOpis": "Napewno nie niskie ceny",
+    "TrasaX": 49.80041802699866,
+    "TrasaY": 19.031486904600527,
+    "TrasaLink": "https://www.google.com/maps/dir//49.800418,19.0314869/@49.7999004,19.0262783,16.25z/data=!4m2!4m1!3e0?hl=pl-PL&entry=ttu"
+
 
   },
   {
     "TrasaId": 3,
-    "TrasaNazwa": "Trasa 3",
-    "TrasaOpis": null,
-    "TrasaDługość": "3km",
-    "PunktPoczątkowy": "Dom",
-    "PunktKońcowy": "Góra"
-
+    "TrasaNazwa": "Papuga Hotel",
+    "TrasaOpis": "Papug",
+    "TrasaX": 49.797661994392804,
+    "TrasaY": 18.984940382066878,
+    "TrasaLink": "https://www.google.com/maps/dir//49.797662,18.9849404/@49.797662,18.9823601,17z/data=!4m2!4m1!3e0?hl=pl-PL&entry=ttu"
   }
 ]
